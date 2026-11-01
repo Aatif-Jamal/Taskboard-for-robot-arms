@@ -5,8 +5,9 @@ A unified all-in-one taskboard that shall be used in robotics competitions. It w
 Today, the idea was born.
 I was reading the research paper "Dr.J" or "Digital Robot Judge" and realized that the solution put forward was actually quite reproducible, and I wanted to add a twist of modularity to it. I believe this project will be an incredible intermediate to hard project for Fallen, and will really force me to engineer like a true engineer.
 
-I worked on Task Selection today.
-Ideally, the final version will have 5 tasks.
+I worked a bunch on task selection, documentation, physical constraints and required components.
+Ideally, the final version will have 5 tasks, and I tried real hard to ensure each task addressed/covered a different aspect of problem solving for industrial robotics. The shortlisting took a lot of time because I had too many tasks to begin with.
+
 1. **Button Start/Stop -** The taskboard has a single button. Presing it once starts the overall timer. Pressing it again marks/checks for completion.
 
 2. **RJ45 insertion -** The taskboard shall have a female RJ-45 socket with a micro-button at the end. The robot will be tasked with picking up the connector, aligning it with the port and inserting it.
