@@ -7,6 +7,7 @@ I was reading the research paper "Dr.J" or "Digital Robot Judge" and realized th
 
 I worked a bunch on task selection, documentation, physical constraints and required components.
 Ideally, the final version will have 5 tasks, and I tried real hard to ensure each task addressed/covered a different aspect of problem solving for industrial robotics. The shortlisting took a lot of time because I had too many tasks to begin with.
+<img width="610" height="816" alt="image" src="https://github.com/user-attachments/assets/76068adc-967b-4865-92a9-7731c59ac2d5" />
 
 1. **Button Start/Stop -** The taskboard has a single button. Presing it once starts the overall timer. Pressing it again marks/checks for completion.
 
@@ -19,3 +20,5 @@ For the first prototype, I will only have the above three tasks. I need to prove
 4. **Screw threading -** Pick up a screwdriver, Pick up a screw, align it accurately, correctly thread it in. A microswitch at the end of the hole picks up completion.
 
 5. **Cable Routing -** This is a pretty complicated task. The idea is to have a series of gates with roller switches fitted into them. The robot arm must route a wire accurately through the gates (hence triggering the rolled switches) in a particular order. 
+
+<img width="521" height="823" alt="image" src="https://github.com/user-attachments/assets/8c9d2aee-db39-4f24-b33d-b0640fd23c26" />
